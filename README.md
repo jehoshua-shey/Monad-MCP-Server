@@ -67,3 +67,10 @@ Claude > Settings > Developer
 ```
 
 5. Restart "Claude Desktop"
+
+
+### How to use the server on Claude Desktop
+
+1. Simply type in prompts asking for 'the MON balance of an address', 'the latest block on the Monad testnet', and 'the total transaction count for an address'.
+
+2. Note that queries involving an address require that you provide Claude with the wallet address to query. The address must be a Monad address.
